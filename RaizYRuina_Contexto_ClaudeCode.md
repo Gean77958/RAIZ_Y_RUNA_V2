@@ -1,4 +1,5 @@
-# RAÍZ Y RUINA — Contexto técnico completo (para Claude Code)
+# RAÍZ Y RUINA — Contexto técnico completo 
+
 
 > Preparado a partir de la conversación de diseño y desarrollo con Carlos (Gean Carlos Mandujano Coronel). No contiene propuestas nuevas ni cambios sugeridos — es documentación del estado real. Todo lo marcado NO CONFIRMADO es incertidumbre real, no una suposición disfrazada.
 
